@@ -2,6 +2,9 @@
     box-sizing: border-box;
 }
 
+header { width: 100%;
+}
+
 .avatar-img {
     border-radius: 50%;
     height: 85px;
@@ -92,7 +95,7 @@ footer {
     }
 }
 body {
-    background-color: #1a4fb0;
+    background-color: #dbe4f8;
     padding: 20px;
     font-family: Arial;
 }
